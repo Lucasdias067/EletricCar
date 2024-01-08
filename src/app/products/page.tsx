@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from 'react';
 import Slider from 'react-slick';
 import Modal from 'react-modal';
